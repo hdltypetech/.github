@@ -1,2 +1,1 @@
-# .github
-Profile readme
+HDL Type Tech’s team consists of researchers stemming from the [Accelerated BigData systems group at the Delft University of technology](https://github.com/abs-tudelft). We share a mission to tackle the challenges that make digital hardware design hard and lift the discipline out of the 80’s. Our team combines expertise in academia and applied research to bridge the gap between theory and real-world impact.
